@@ -1,7 +1,7 @@
 {
   "name": "com.jtlstudio.sdk.analytics",
   "displayName": "JTL SDK Analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.3",
   "description": "Goals for JTL SDK: events as objects, delivery to the Yandex Metrica counter of the active configuration.",
   "author": {
